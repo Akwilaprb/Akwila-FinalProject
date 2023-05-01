@@ -1,6 +1,5 @@
 <div style="clear:both" class="panel panel-default">
   <div class="panel-body">
-    Panel content
   </div>
-  <div class="panel-footer">Panel footer</div>
+  <div class="panel-footer">Akwila Nadinda Purba ~ 001202200149</div>
 </div>
